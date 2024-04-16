@@ -3,7 +3,7 @@ Trend Jumlah Mahasiswa dari Tahun ke Tahun
 - Grafik batang yang telah ditampilkan sebelumnya cukup baik. Namun, informasi yang terkandung masih belum diekplorasi lebih detail. Sebagai contoh, bagaimanakah jika kita ingin melihat trend jumlah mahasiswa tiap fakultas dari tahun ke tahun?
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
-'''
+```
 library(ggplot2)
 #Menggunakan package openxlsx
 library(openxlsx)
@@ -21,7 +21,7 @@ summarybyfakultas$tahun = as.factor(summarybyfakultas$tahun)
 ggplot(summarybyfakultas, aes(x=fakultas, y=jumlah_mahasiswa)) + 
   geom_bar(stat = "identity", aes(fill = tahun), width=0.8, position = position_dodge(width=0.8)) + 
   theme_classic() 
-'''
+```
 
 ## 🍳🥘🍲 Result 🍲🥘🍳
 
