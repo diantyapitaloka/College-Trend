@@ -3,6 +3,8 @@ Trend Jumlah Mahasiswa dari Tahun ke Tahun
 - Grafik batang yang telah ditampilkan sebelumnya cukup baik. Namun, informasi yang terkandung masih belum diekplorasi lebih detail. Sebagai contoh, bagaimanakah jika kita ingin melihat trend jumlah mahasiswa tiap fakultas dari tahun ke tahun?
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
+- Terlampir code sebagai berikut:
+  
 ```
 library(ggplot2)
 #Menggunakan package openxlsx
