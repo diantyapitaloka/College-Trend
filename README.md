@@ -3,6 +3,7 @@
 - Comparing the percentage of students in each faculty helps identify which departments are expanding the fastest. This allows the university to allocate resources and staff more effectively based on demand.
 - Analyzing the ratio of male to female students within specific faculties can highlight progress in diversity and inclusion. These insights are essential for creating targeted recruitment strategies for underrepresented groups.
 - External factors, such as changes in government funding or accreditation standards, often influence enrollment spikes or drops. Mapping these external events against your trend lines can explain sudden shifts in the data.
+- Linking enrollment numbers with graduation data per faculty reveals which departments are most successful at retaining students. If a high-growth faculty has a low completion rate, it might indicate a need for better academic support.
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
 - Terlampir code sebagai berikut:
