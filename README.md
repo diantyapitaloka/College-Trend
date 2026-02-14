@@ -1,6 +1,7 @@
 ## 🍳🥘🍲 College-Trend 🍲🥘🍳
 - The bar chart displayed previously is quite good. However, the information it contains has not yet been explored in detail. For example, what if we want to see the trend in the number of students for each faculty from year to year
 - Comparing the percentage of students in each faculty helps identify which departments are expanding the fastest. This allows the university to allocate resources and staff more effectively based on demand.
+- Analyzing the ratio of male to female students within specific faculties can highlight progress in diversity and inclusion. These insights are essential for creating targeted recruitment strategies for underrepresented groups.
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
 - Terlampir code sebagai berikut:
