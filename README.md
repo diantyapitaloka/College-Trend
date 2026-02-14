@@ -1,6 +1,5 @@
 ## 🍳🥘🍲 College-Trend 🍲🥘🍳
-Trend Jumlah Mahasiswa dari Tahun ke Tahun
-- Grafik batang yang telah ditampilkan sebelumnya cukup baik. Namun, informasi yang terkandung masih belum diekplorasi lebih detail. Sebagai contoh, bagaimanakah jika kita ingin melihat trend jumlah mahasiswa tiap fakultas dari tahun ke tahun?
+- The bar chart displayed previously is quite good. However, the information it contains has not yet been explored in detail. For example, what if we want to see the trend in the number of students for each faculty from year to year
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
 - Terlampir code sebagai berikut:
