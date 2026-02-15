@@ -17,7 +17,7 @@
 - Linking enrollment numbers with graduation data per faculty reveals which departments are most successful at retaining students. If a high-growth faculty has a low completion rate, it might indicate a need for better academic support.
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
-- Terlampir code sebagai berikut:
+- TPlease find the code below :
   
 ```
 library(ggplot2)
