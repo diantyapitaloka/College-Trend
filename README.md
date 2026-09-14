@@ -31,7 +31,7 @@
 - As modern careers evolve, students are increasingly drawn to programs that cross traditional faculty boundaries. Visualizing the rise of these hybrid majors can help the university design more relevant, future-proof curricula.
 - External factors, such as changes in government funding or accreditation standards, often influence enrollment spikes or drops. Mapping these external events against your trend lines can explain sudden shifts in the data.
 - Tracking student cohorts over time shows the specific years where students are most likely to leave the university. Identifying these "leakage points" per faculty is the first step toward improving student persistence.
-- Linking enrollment numbers with graduation data per faculty reveals which departments are most successful at retaining students. If a high-growth faculty has a low completion rate, it might indicate a need for better academic support.
+- Linking enrollment numbers with graduation data per faculty reveals which departments are most successful at retaining student. If a high-growth faculty has a low completion rate, it might indicate a need for better academic support.
 
 ## 🍳🥘🍲 Code 🍲🥘🍳
 - TPlease find the code below :
